@@ -5,13 +5,15 @@ import { LayoutRoutingModule } from './layout-routing.module';
 import { OverviewComponent } from './overview/overview.component';
 import { StudyComponent } from './study/study.component';
 import { ElementsComponent } from './elements/elements.component';
+import { EarthDataComponent } from './earth-data/earth-data.component';
 
 
 @NgModule({
   declarations: [
     OverviewComponent,
     StudyComponent,
-    ElementsComponent
+    ElementsComponent,
+    EarthDataComponent
   ],
   imports: [
     CommonModule,
