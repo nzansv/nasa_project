@@ -4,3 +4,6 @@
 .nounderline {
   text-decoration: none !important
 }
+body {
+  background-image: url("https://cdn.vox-cdn.com/thumbor/OIF6kjEGPu_5gUvmILATgD2t0ys=/129x0:971x561/1200x800/filters:focal(129x0:971x561)/cdn.vox-cdn.com/assets/3731191/earth-wind2.jpg");
+}
